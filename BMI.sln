@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BMI", "BMI\BMI.pyproj", "{2117F8BF-AA6A-43C2-BF6C-F4D6B9AFA637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2117F8BF-AA6A-43C2-BF6C-F4D6B9AFA637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2117F8BF-AA6A-43C2-BF6C-F4D6B9AFA637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED03018-98A8-43B0-A501-64C3266F4F41}
+	EndGlobalSection
+EndGlobal
