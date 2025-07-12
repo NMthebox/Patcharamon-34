@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36227.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "While Loop", "While Loop\While Loop.pyproj", "{F0F6C81B-8AA2-41DB-AE96-47AD60B47AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F6C81B-8AA2-41DB-AE96-47AD60B47AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F6C81B-8AA2-41DB-AE96-47AD60B47AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF99685E-BD83-41D7-AE72-8DA9F0DE1B95}
+	EndGlobalSection
+EndGlobal
